@@ -1,0 +1,127 @@
+---
+title: "DATA 301 Wrap Up"
+format:
+  revealjs: 
+    theme: dark
+---
+
+##  Three Units
+
+-   Tabular data
+-   Different types of data
+-   Machine learning
+
+
+##  Tabular data
+
+-   Summarizing, visualizing, describing
+-   Pandas
+-   Vectorization (broadcasting, transformations)
+-   Split-apply-combine (groupby)
+-   Grammar of graphics (plotly, altair)
+-   Reshaping data (stack/unstack, melt)
+-   Joining data (merge)
+
+
+##  Types of Data
+
+-   Tabular data
+-   Text
+-   Hierarchical (JSON, XML)
+-   Time series
+-   Geospatial
+-   (Image, briefly on Assignment 7B)
+
+
+##  Machine Learning: Supervised
+
+-   Regression
+    -   Linear
+    -   K-nearest neighbors
+-   Classification
+    -   K-nearest neighbors
+    -   (Decision tree and logistic regression, only briefly)
+
+
+##  Machine Learning: Supervised (continued)
+
+-   Test vs train error
+-   Cross-validation
+-   Model selection and hyperparameter tuning
+-   Ensemble methods
+
+
+##  Machine Learning: Unsupervised
+
+-   K-means clustering
+-   Hierarchical clustering
+
+
+##  "Everything is Numbers"
+
+-   One-hot encoding of categorical variables
+-   TF/TF-IDF representation of text
+-   Dates
+-   Map projections
+-   (Image, briefly on Assignment 7B)
+
+
+##  Distance Metrics
+
+-   Variability (SD versus MAD)
+-   Distance between observations
+-   Document similarity (cosine distance)
+-   Test and train error (MSE)
+-   K-nearest neighbors
+-   K-means clustering
+-   Hierarchical clustering
+-   Geospatial distance (haversine)
+
+
+##  Software skills
+
+-   Colab notebooks
+-   Python
+-   Pandas
+-   Plotly, Altair
+-   Beautiful Soup (webscraping)
+-   Working with APIs
+-   Scikit-learn
+-   Geopandas
+
+
+##  Cross Disciplinary Studies Minor (CDMS) in Data Science
+
+-   Not really a "minor"
+-   [Curriculum](https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/crossdisciplinarystudiesminordatascience/)
+-   Successful completion of DATA 301 is a prerequisite
+-   See Dr. Glanz (Statistics)
+-   Even if you're not interested in the minor, you might be interested in some of the courses!
+
+
+##  DATA 401/402/403
+
+-   Three concurrent courses
+-   Many of the same topics as DATA 301, but more...
+-   More data
+-   More depth
+-   More math (e.g., maximum likelihood, loss functions, gradient decent)
+-   More methods (e.g., decision trees, neural nets)
+-   More programming (e.g., implementing from scratch)
+-   More applications (in particular, DATA 403 is a projects lab)
+-   Prerequisites: DATA 301, CSC 365, CSC 466, STAT 334
+
+
+##  Statistics
+
+-   Lots of great [STAT courses](https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/#courseinventory)
+-   [Statistics Minor](https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/statisticsminor/)
+
+
+##  Thanks!
+
+-   Thanks for taking the course!
+-   Thanks for your patience and understanding!
+-   Thanks in advance for your feedback on the course evaluation!
+
+
